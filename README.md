@@ -22,8 +22,19 @@
    <a href="https://twitter.com/iamphabulouzc">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </br>
+  </br>
 </div>
 <div id="badges">
   <a href="https://github.com/Iamphabulouz">
-    <img src="<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
+  
+  ### :fire: My Stats :
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iamphabulouz&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamphabulouz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
