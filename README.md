@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/search/coding-girl-stickers" width="100"/>
+  <img src="https://giphy.com/stickers/witech-official-transparent-girl-power-witech-Htvzl5WUIXc81uuYAM" width="100"/>
 </div>
 
 ## Hi there 👋
 
-- 🥰 My name is Anamekwe Cynthia
+- 🥰 My name is # Anamekwe Cynthia
 - 🏡 I live in Abuja Nigeria
 - 🔭 I’m currently working on transitioning into tech
 - 🌱 I’m currently learning software engineering on ALX and Coursera
