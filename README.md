@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/witech-official-transparent-girl-power-witech-Htvzl5WUIXc81uuYAM/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/witech-official-transparent-girl-power-witech-Htvzl5WUIXc81uuYAM" width="100"/>
 </div>
 
 ## Hi there 👋
