@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on transitioning into tech
 - 🌱 I’m currently learning software engineering on ALX and Coursera
 - 👯 I’m looking to collaborate on projects for newbies like me
-- ⚡ Fun fact: I cannot sing.
+- ⚡ Fun fact: I love love dogs 🐶.
 
 
 ## 🌍 Socials
